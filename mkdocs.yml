@@ -1,0 +1,5 @@
+site_name: GoBrunch End User Docs
+
+nav:
+- English: 'en/index.md'
+- Portuguese: 'br/index.md'
