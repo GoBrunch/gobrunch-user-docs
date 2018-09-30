@@ -6,7 +6,7 @@
 
 - [Criando seu evento](#criando-seu-evento)
 - [Editando seu evento](#editando-seu-evento)
-- [Baixando o vídeo gravado do seu webinar](#baixando-o-vídeo-gravado-do-seu-webinar)
+- [Baixando o vídeo gravado do seu webinar](#baixando-o-video-gravado-do-seu-webinar)
 
 ## Criando seu Evento
 
