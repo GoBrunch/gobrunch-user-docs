@@ -8,6 +8,7 @@
 - [Compartilhando sua tela e mostrando apresentações em PowerPoint](#compartilhando-sua-tela-e-mostrando-apresentações-em-powerpoint)
 - [Mutar](#mutar)
 - [Compartilhando arquivos](#compartilhando-arquivos)
+- [Gravando seu webinar](#gravando-seu-webinar)
 - [Dicas úteis](#dicas-úteis)
 
 ## Transmitindo
