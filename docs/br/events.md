@@ -69,4 +69,4 @@ Caso você tenha marcado a opção para *gravar sua sessão*, você poderá baix
 
 Segue abaixo um exemplo mostrando que a gravação está pronta para ser baixada.
 
-<img src="https://i.imgur.com/aoBSXPX.png">
+<img src="http://funkyimg.com/i/2LJWC.png">
