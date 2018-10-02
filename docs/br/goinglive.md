@@ -78,6 +78,22 @@ Se você quiser um minuto de silêncio para se concentrar ou ler alguma coisa du
 
 Você pode fazer o upload de arquivos de qualquer tipo clicando no ícone _Arquivos_, que será exibido no *chat* para todas as pessoas. Esteja ciente de que esses arquivos são públicos, de modo que qualquer pessoa dentro da sala poderá abrí-los.
 
+## Gravando seu webinar
+
+Caso você tenha marcado a opção para gravar sua sessão, a mesma será automaticamente gravada. Você verá esse contador antes do horário de início: 
+
+<img src=“http://funkyimg.com/i/2LzoW.png”>
+
+Assim que o horário da sua sessão chegar, você verá um círculo pulsando escrito **Gravando** como mostrado na imagem abaixo:
+
+<img src=“http://funkyimg.com/i/2LzoY.png”>
+
+A gravação somente tem início depois que você clicar em **Transmitir**. Uma coisa legal no *GoBrunch* é que mesmo se sua conexão cair e você voltar, a gravação continua do ponto que você parou.
+
+**Note** que as sessões transmitidas no *Lounge* não são gravadas. Entre na sala principal para que o recurso seja usado. 
+
+Para saber como acessar o arquivo da gravação consulte [Baixando o vídeo gravado do seu webinar](webinar-pt.md)
+
 ## Dicas úteis
 
 Escrevemos algumas dicas úteis para aproveitar ao máximo seus eventos e webinars:
