@@ -93,7 +93,7 @@ A gravação somente tem início depois que você clicar em **Transmitir**. Uma 
 
 **Note** que as sessões transmitidas no *Lounge* não são gravadas. Entre na sala principal para que o recurso seja usado. 
 
-Para saber como acessar o arquivo da gravação consulte [Baixando o vídeo gravado do seu webinar](webinar.md)
+Para saber como acessar o arquivo da gravação consulte [Baixando o vídeo gravado do seu webinar](events.md)
 
 ## Dicas úteis
 
