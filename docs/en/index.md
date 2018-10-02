@@ -8,3 +8,4 @@
 - [Promoting your Meetings and Webinars](promoting.md)
 - [My Account](myaccount.md)
 - [Friends](friends.md)
+- [Contacts](https://gobrunch.com/contact)
