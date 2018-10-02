@@ -34,7 +34,7 @@ Um novo recurso do *GoBrunch* é a possibilidade de **gravar seus webinars e bai
 
 <img src="http://funkyimg.com/i/2Lzp6.png">
 
-Para maiores informações sobre gravação, consulte a [Controlando Ao Vivo seu Evento, Webinar ou Treinamento](goinglive.md) e [Baixando o vídeo gravado do seu webinar](#baixando-o-vídeo-gravado-do-seu-webinar)
+Para maiores informações sobre gravação, consulte a [Controlando Ao Vivo seu Evento, Webinar ou Treinamento](goinglive.md) e [Baixando o vídeo gravado do seu webinar](#baixando-o-video-gravado-do-seu-webinar)
 
 Você também pode adicionar outro apresentador, se quiser. **Note** que os apresentadores adicionais não têm privilégios para controlar a sessão. O único benefício é exibir o nome e as fotos deles na descrição do evento. Também **note** que você só pode adicionar um apresentador se ele / ela já é seu amigo(a). Verifique [como adicionar um amigo](friends.md).
 
