@@ -83,11 +83,11 @@ Você pode fazer o upload de arquivos de qualquer tipo clicando no ícone _Arqui
 
 Caso você tenha marcado a opção para gravar sua sessão, a mesma será automaticamente gravada. Você verá esse contador antes do horário de início: 
 
-<img src=“http://funkyimg.com/i/2LzoW.png”>
+<img src="http://funkyimg.com/i/2LzoW.png">
 
 Assim que o horário da sua sessão chegar, você verá um círculo pulsando escrito **Gravando** como mostrado na imagem abaixo:
 
-<img src=“http://funkyimg.com/i/2LzoY.png”>
+<img src="http://funkyimg.com/i/2LzoY.png">
 
 A gravação somente tem início depois que você clicar em **Transmitir**. Uma coisa legal no *GoBrunch* é que mesmo se sua conexão cair e você voltar, a gravação continua do ponto que você parou.
 
