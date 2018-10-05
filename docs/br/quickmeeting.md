@@ -6,12 +6,12 @@
 - [Iniciando sua reunião](#iniciando-sua-reunião)
 - [Compartilhando o link da sala com outras pessoas](#compartilhando-o-link-da-sala-com-outras-pessoas)
 - [Personalizando o nome de sua sala](#personalizando-o-nome-de-sua-sala)
-- [Câmera e Microfone](#câmera-e-microfone)
+- [Câmera e Microfone](#camera-e-microfone)
 - [Chat](#chat)
-- [Compartilhando sua tela e mostrando apresentações em PowerPoint](#compartilhando-sua-tela-e-mostrando-apresentações-em-powerpoint)
+- [Compartilhando sua tela e mostrando apresentações em PowerPoint](#compartilhando-sua-tela-e-mostrando-apresentacoes-em-powerpoint)
 - [Mutar](#mutar)
 - [Compartilhando arquivos](#compartilhando-arquivos)
-- [Convidando quem está online](#convidando-quem-está-online)
+- [Convidando quem está online](#convidando-quem-esta-online)
 
 
 ## Iniciando sua reunião
