@@ -3,7 +3,7 @@
 Índice:
 
 - [Adicionando Amigos](#adicionando-amigos)
-- [Lista do seu amigo](#listando-seus-amigos)
+- [Listando seus amigos](#listando-seus-amigos)
 
 ## Adicionando Amigos
 
