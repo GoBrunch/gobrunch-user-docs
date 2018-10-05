@@ -4,9 +4,9 @@
 
 Índice:
 
-- [Não consigo ver ou ouvir nada](#não-consigo-ver-ou-ouvir-nada)
-- [As pessoas não me ouvem ou não me veem](#as-pessoas-não-me-ouvem-ou-não-me-veem)
-- [Estou-ouvindo-reverberações e ecos na minha reunião](#estou-ouvindo-reverberações-e-ecos-na-minha-reunião)
+- [Não consigo ver ou ouvir nada](#nao-consigo-ver-ou-ouvir-nada)
+- [As pessoas não me ouvem ou não me veem](#as-pessoas-nao-me-ouvem-ou-não-me-veem)
+- [Estou-ouvindo-reverberações e ecos na minha reunião](#estou-ouvindo-reverberacoes-e-ecos-na-minha-reuniao)
 
 ## Não consigo ver ou ouvir nada
 
