@@ -5,7 +5,7 @@
 
 - [Entrando para Conhecer o GoBrunch](#entrando-para-conhecer-o-gobrunch)
 
-- [Entrando como convidado para uma video-conferência](#entrando-como-convidado-para-uma-video-conferência)
+- [Entrando como convidado para uma video-conferência](#entrando-como-convidado-para-uma-video-conferencia)
     
 - [Entrando como convidado para um Evento, Webinar ou Treinamento](#entrando-como-convidado-para-um-evento-webinar-ou-treinamento)
     
