@@ -4,11 +4,11 @@
 Índice:
 
 - [Transmitindo](#transmitindo)
-- [Ligando o Mic e a câmera de outros apresentadores ou participantes](#ligando-o-mic-e-a-câmera-de-outros-apresentadores-ou-participantes)
-- [Compartilhando sua tela e mostrando apresentações em PowerPoint](#compartilhando-sua-tela-e-mostrando-apresentações-em-powerpoint)
+- [Ligando o Mic e a câmera de outros apresentadores ou participantes](#ligando-o-mic-e-a-camera-de-outros-apresentadores-ou-participantes)
+- [Compartilhando sua tela e mostrando apresentações em PowerPoint](#compartilhando-sua-tela-e-mostrando-apresentacoes-em-powerpoint)
 - [Mutar](#mutar)
 - [Compartilhando arquivos](#compartilhando-arquivos)
-- [Dicas úteis](#dicas-úteis)
+- [Dicas úteis](#dicas-iteis)
 
 ## Transmitindo
 
