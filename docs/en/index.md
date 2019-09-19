@@ -9,4 +9,4 @@
 - [My Account](myaccount.md)
 - [Friends](friends.md)
 - [Troubleshooting](troubleshooting.md)
-- [Contact](https://gobrunch.com/contact)
+- [Contact](https://gobrunch.com/company/contact)
