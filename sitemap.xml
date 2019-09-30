@@ -1,13 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2018-10-05</lastmod>
+     <loc>/</loc>
+     <lastmod>2019-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2018-10-05</lastmod>
+     <loc>/br/difference/</loc>
+     <lastmod>2019-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/br/events/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/friends/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/goinglive/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/myaccount/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/promoting/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/quickmeeting/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/signingup/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/br/troubleshooting/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/en/difference/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/events/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/friends/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/goinglive/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/myaccount/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/promoting/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/quickmeeting/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/signingup/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/en/troubleshooting/</loc>
+     <lastmod>2019-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
 </urlset>
