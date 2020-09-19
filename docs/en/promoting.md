@@ -12,4 +12,4 @@ Here are some strategies you can apply to promote your *Webinar*:
 
 - **Invite *Who’s Online***: You can invite users by clicking on the people icon:<br><img src="https://i.imgur.com/7pl0C2Y.png" title="source: imgur.com" /><br>Click on the dialog icon as shown in the picture below:<br><img src="https://i.imgur.com/NcMjR1f.png" title="source: imgur.com" /><br>If the user is online and you invite him, he will receive a notification, if he accepts, he will land in your room where you can start a conversation. If he is your friend and he is offline, he will receive an email.
 
-- Ultimately, if you set your event as *public*, the users will always be able to see your event in our Lobby. So, everyone who browses our webinar’s catalog will be able to find and register to your event.
+- Ultimately, if you set your event as *public*, the users will always be able to see your event in our Lobby. So, everyone who browses our webinar’s catalog will be able to find and register to your event..
